@@ -28,3 +28,6 @@
 .selected {
     background-color: blue;
 }
+.go{
+    display: block;
+}
